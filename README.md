@@ -21,6 +21,10 @@ A modern expense tracking web application built with React and JavaScript.
 
 ![Expense Tracker](screenshots/expense-tracker-preview.png)
 
+## Live Demo
+
+https://remarkable-cactus-de76de.netlify.app/
+
 ## How to Run
 
 1. Clone the repository
